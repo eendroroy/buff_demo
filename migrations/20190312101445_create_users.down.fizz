@@ -1,0 +1,3 @@
+drop_index("users", "email")
+drop_index("users", "token")
+drop_table("users")
